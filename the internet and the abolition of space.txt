@@ -7,23 +7,20 @@ we do this work with pure lenguaje aboiding some of natural needs of space.
 
 
 
-the communication of our species is always limited by space, it´s safe to assume that trough the centuries we were always trying to overcome that necessity. We use sound and visual signals that amplify or field or we use animals to carry the message,
-and altough we found better ways to store knoledge with the guttemberg printing machine, which in turn cause a massive push for the development of science and new techniques, we were still subedited to the inherint space of the book, and the distance that the book have to travel to get to the readers.
+the communication of our species has always been limited by space, it´s safe to assume that trough the centuries we were always trying to overcome that necessity. We use sound and visual signals that amplify or field or we use animals to carry the message,
+and altough we found better ways to store knoledge with the guttemberg printing machine, which in turn cause a massive push for the development of science and new techniques, we were still subedited to the inherint space of the book, and the distance that the book has to travel to get to the readers.
 
 It wasn't until we learn to use electricity that we became efficent at getting information trought long distances. That happened at the last part of the 19th century, and it took us 10,000 years to get there. 
 Electricity, for better or worst tranformed the face of the earth. 
 We became suited for many types of climages, we learn to produce massives amounts of food, we controled child mortality and we get to the closest we have been in 10 millenia to control nature. Humans begun to grow exponentialy.
-And this time in turn, was the growth of human units what allowed for the biggest explotion of development in science and techniques that any human have ever seen, probably a more drastic evolution than what could have been dreamed of. And this time in such a narrow range of time, that some people could experience the whole way from the telegraph to internet.
-the history of computing could be seen as the sistematic progress to eliminate the neccesity of space at managing data.
- 
+
+And this time in turn, was the growth of human units what allowed for the biggest explotion of development in science and techniques that any human have ever seen before, probably a more drastic evolution than what anyone could have been dreamed of. Everything in such a narrow range of time, that some people experience the whole way from the last comun telegraph to the smart phone.
+the history of computing could be seen as the sistematic progress to eliminate the neccesity of space at encoding and managing data.
+The baggage machine could not be contructed because of his mechanichal nature, it occupyed too much space, and some of the space that it should ocuppy were in need for pieces that we were simply not able to produce by then. 
+World war 2 pushed the need to abandon mechanichal computing and gave birth to the firsts electronical computers, and altough by then computers still ocupyed a considerable space, less than 30 years later we had portable ones.
+With this, with the 
 
 
-al revés de con la electricidad ahora el número de personas ayudó a que avanzaramos más rápido con las técnicas.
-
-
-
-
-This alowed us to grow bigger,
 
 twenty years ago
 is the visual editors the ones that should be talking with the internet, not trought a transletion to html protocol, but a new protocol, some especie of multidimentional-pure-svg lenguaje, in which we can code thinking from spaces and not from the element-especific-placement of html. The main protocol for internet comunication should be design on the basis of visuals, that is to say that primarly shoud be coding some kind of topografic data, close to a game engine.
